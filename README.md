@@ -1,2 +1,2 @@
-# js_testing
+# JS testing.
 ## js program new level
